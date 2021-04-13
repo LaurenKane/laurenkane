@@ -1,2 +1,2 @@
 # laurenkane
-Repo for all my projects
+Repo for AI Frontend Masters Challenge
